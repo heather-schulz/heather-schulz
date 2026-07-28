@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Heather.
 
 <!--
 **heather-schulz/heather-schulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm an Applied Statistician (MSc, 4.0 GPA) with deep technical training in predictive modeling and statistical inference. I combine rigorous quantitative skills with a strong background in cross-cultural communication and instruction, specializing in translating complex analytical findings into clear, decision-ready insights.
+
+### Technical Skills
+* **Languages & Querying:** R, SQL, Python
+* **Statistical Modeling:** Time Series Analysis (ARIMA), Generalized Linear Models, Predictive Modeling, Linear & Regularized Regression, Monte Carlo Simulations, Hypothesis Testing & ANOVA
+* **Core Strengths:** Statistical Rigor, Cross-Functional Collaboration, End-to-End Project Ownership
