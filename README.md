@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm an Applied Statistician (MSc, 4.0 GPA) with deep technical training in predictive modeling and statistical inference. I combine rigorous quantitative skills with a strong background in cross-cultural communication and instruction, specializing in translating complex analytical findings into clear, decision-ready insights.
+### I'm an Applied Statistician (MSc, 4.0 GPA) with deep technical training in predictive modeling and statistical inference. I combine rigorous quantitative skills with a strong background in cross-cultural communication and instruction, specializing in translating complex analytical findings into actionable insights.
 
 ### Technical Skills
 * **Languages & Querying:** R, SQL, Python
