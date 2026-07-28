@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 ### Technical Skills
 * **Languages & Querying:** R, SQL, Python
 * **Statistical Modeling:** Time Series Analysis (ARIMA), Generalized Linear Models, Predictive Modeling, Linear & Regularized Regression, Monte Carlo Simulations, Hypothesis Testing & ANOVA
-* **Core Strengths:** Statistical Rigor, Cross-Functional Collaboration, End-to-End Project Ownership
