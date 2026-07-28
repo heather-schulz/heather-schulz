@@ -1,4 +1,4 @@
-# Hi, I'm Heather.
+# Hi there!
 
 <!--
 **heather-schulz/heather-schulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
